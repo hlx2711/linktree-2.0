@@ -8,7 +8,7 @@
 /* Main Styles */
 body {
   font-family: 'Poppins', sans-serif;
-  background: linear-gradient(135deg, #6a3093 0%, #a044ff 100%);
+  background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
   color: #333;
   line-height: 1.6;
   padding: 20px;
@@ -40,7 +40,7 @@ body {
 .header {
   padding: 25px 20px;
   text-align: center;
-  background: linear-gradient(to right, #7642db, #a36bff);
+  background: linear-gradient(to right, #1e40af, #3b82f6);
 }
 
 .header h1 {
@@ -74,7 +74,7 @@ body {
 .profile-name {
   font-size: 1.8rem;
   font-weight: 600;
-  color: #6a3093;
+  color: #1e40af;
   margin-bottom: 8px;
 }
 
@@ -190,7 +190,7 @@ footer {
   }
   
   .profile-name {
-    color: #b388ff;
+    color: #60a5fa;
   }
   
   .profile-bio {
